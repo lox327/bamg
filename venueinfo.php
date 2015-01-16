@@ -30,7 +30,7 @@ $today = date("Y-m-d");
 $startdate = strtotime ("+0 day", strtotime ($today)) ;
 $startdate = date ('Y-m-d' , $startdate);
 
-include_once("db_connect.php");
+//include_once("db_connect.php");
 
 
 //***** venueinfo ONLY
