@@ -19,7 +19,7 @@
 </div><br /><br />
 
 <?php
-include_once("db_connect.php");
+//include_once("db_connect.php");
 
 //adding DB items to webpage
 $week1 = "+" . "0" . " week";
